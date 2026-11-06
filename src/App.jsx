@@ -1,10 +1,8 @@
-
+import Nav from "./components/Nav";
 function App() {
   return (
     <>
-      <div className="h-20 w-20 bg-blue-500">
-
-      </div>
+      <Nav/>
     </>
   )
 }
